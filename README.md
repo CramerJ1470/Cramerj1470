@@ -7,8 +7,8 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...!
+🔭 I’m currently working on a Chainlink Hackathon and PAckyman Game!
+- 🌱 I’m currently learning Blockchain Development
 
 
 - 👯 I’m looking to collaborate on ...
