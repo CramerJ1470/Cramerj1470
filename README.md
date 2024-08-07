@@ -1,7 +1,7 @@
 
 
 ![packymanpage](https://user-images.githubusercontent.com/78001774/236713834-65ce017f-bbcd-4d8e-95ed-4ff8aab8cfd7.png)
-🔭 I’m currently working on a Chainlink Hackathon and Packyman Game <br>
+🔭 I’m currently working on a Tron Hackathon and Packyman Game <br>
 🌱 I’m currently learning Blockchain Development
 
 <!--
