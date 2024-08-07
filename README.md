@@ -9,7 +9,7 @@
 
 Here are some ideas to get you started:
 
-🔭 I’m currently working on a Chainlink Hackathon and PAckyman Game! /n
+🔭 I’m currently working on a Tron Blockchain   Hackathon and PAckyman Game! /n
 🌱 I’m currently learning Blockchain Development
 
 
