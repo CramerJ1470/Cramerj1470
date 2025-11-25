@@ -1,7 +1,7 @@
 
 
 ![packymanpage](https://user-images.githubusercontent.com/78001774/236713834-65ce017f-bbcd-4d8e-95ed-4ff8aab8cfd7.png)
-🔭 I’m currently working on SportToken team and player tokenization project with investment theme and a SportToken Native token. We use Smart Contracts and Chainlink Functions (to get updated standings) and Chainlink's Automation to run that function on periodic interval. Currently Studying Smart Contract Audit and Research and looking to find opportunities in that field! <br>
+🔭 I’m currently working on experimenting with integrating Markov chains,Astar, and machine learning into my Packyman game to help ghosts chase down the players. On a profesional note, i am working on creating IoT hardware and systems to connect the data smart contracts to maintain records on physical assets <br>
 
 🌱 I’m currently learning Blockchain Development
 
